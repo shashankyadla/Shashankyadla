@@ -1,4 +1,4 @@
-[![MasterHead](https://aul.edu.ng/static/images/reviews/computeredu.jpg)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqBBVGL7hYSWV6ugq7fFJt9D7Y95w6Y6PsZg&s)
 <h1 align="center">Hi 👋, I'm Shashank yadla</h1>
 <h3 align="center">A passionate software developer from India</h3>
  
