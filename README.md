@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqBBVGL7hYSWV6ugq7fFJt9D7Y95w6Y6PsZg&s)
+[![MasterHead](https://e0.pxfuel.com/wallpapers/66/409/desktop-wallpaper-software-engineer-software-development.jpg)
 <h1 align="center">Hi 👋, I'm Shashank yadla</h1>
 <h3 align="center">A passionate software developer from India</h3>
  
